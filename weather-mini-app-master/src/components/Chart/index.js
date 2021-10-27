@@ -1,7 +1,7 @@
 import React from "react";
 import { Bar } from "react-chartjs-2";
 import forEach from "lodash/forEach";
-import moment from "moment";
+import moment from "moment';
 
 const Chart = ({ item }) => {
   console.log("item", item);
