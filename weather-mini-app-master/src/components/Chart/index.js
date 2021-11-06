@@ -29,6 +29,7 @@ const Chart = ({ item }) => {
           hoverBorderColor: "rgba(255,99,132,1)",
           data
         }
+        ..
       ]
     };
   };
