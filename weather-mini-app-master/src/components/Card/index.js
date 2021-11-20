@@ -54,6 +54,7 @@ export default function MediaCard({
           handelSetIndex(index);
         }}
       >
+        
         <CardHeader title={city.name || ""} className={classes.temp} />
         <CardMedia className={classes.media} title="Contemplative Reptile">
           <Typography
